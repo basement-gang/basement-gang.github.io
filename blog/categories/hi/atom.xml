@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Hi | My Octopress Blog]]></title>
+  <link href="http://basement-gang.github.io/blog/categories/hi/atom.xml" rel="self"/>
+  <link href="http://basement-gang.github.io/"/>
+  <updated>2013-06-13T11:31:21+08:00</updated>
+  <id>http://basement-gang.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I'm 12, and wad's dis?]]></title>
+    <link href="http://basement-gang.github.io/blog/2013/06/13/im-12-and-wads-dis/"/>
+    <updated>2013-06-13T11:24:00+08:00</updated>
+    <id>http://basement-gang.github.io/blog/2013/06/13/im-12-and-wads-dis</id>
+    <content type="html"><![CDATA[<p>First post!</p>
+
+<p>Hi there, I&rsquo;m Shawn, proud member of the basement gang, and first
+time user of octopress.</p>
+]]></content>
+  </entry>
+  
+</feed>
