@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://basement-gang.github.io/sitemap.xml 
